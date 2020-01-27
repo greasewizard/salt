@@ -1,2 +1,3 @@
 base:
-  - '*'
+  'saltmaster':
+    - test
